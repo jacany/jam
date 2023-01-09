@@ -8,7 +8,7 @@ import {InfoModal} from './InfoModal';
 import {MicOffSvg, MicOnSvg} from './Svg';
 import {useJam} from '../jam-core-react';
 
-const reactionEmojis = ['❤️', '💯', '😂', '😅', '😳', '🤔'];
+const reactionEmojis = ['🤙', '💯', '😂', '😅', '😳', '🤔'];
 
 let navigationStyle = {
   position: 'fixed',

@@ -5,7 +5,7 @@ import {useMqParser} from '../lib/tailwind-mqp';
 import {colors} from '../lib/theme';
 import {MicOffSvg} from './Svg';
 
-const reactionEmojis = ['❤️', '💯', '😂', '😅', '😳', '🤔'];
+const reactionEmojis = ['🤙', '💯', '😂', '😅', '😳', '🤔'];
 
 export function StageAvatar({
   room,
